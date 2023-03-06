@@ -1,24 +1,25 @@
 Django restaurant Project
 
 Avaible URLS : 
-'admin/' >> django admin panel
-'' >> restaurant main page
+'admin/' >> django admin panel <br>
+'' >> restaurant main page <br> 
 
-api/menu/ >> show / create menu items
-api/menu/<int:pk> >> retrive single menu item 
-api/booking/ >> show / create bookings 
- 
+api/menu/ >> show / create menu items <br>
+api/menu/<int:pk> >> retrive single menu item  <br>
+api/booking/ >> show / create bookings  <br>
+
+
  ## Djoser endpoints ##
  
-auth/users/ >> createing a user using POST
-auth/users/me/
-auth/users/confirm/
-auth/users/resend_activation/
-auth/users/set_password/
-auth/users/reset_password/
-auth/users/reset_password_confirm/
-auth/users/set_username/
-auth/users/reset_username/
-auth/users/reset_username_confirm/
-/token/login/ >> generating token
-/token/logout/
+auth/users/ >> createing a user using POST <br>
+auth/users/me/<br>
+auth/users/confirm/<br>
+auth/users/resend_activation/<br>
+auth/users/set_password/<br>
+auth/users/reset_password/<br>
+auth/users/reset_password_confirm/<br>
+auth/users/set_username/<br>
+auth/users/reset_username/<br>
+auth/users/reset_username_confirm/<br>
+/token/login/ >> generating token<br>
+/token/logout/<br>
